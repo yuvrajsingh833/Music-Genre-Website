@@ -1,9 +1,10 @@
-#Music Genre Website
+**Music Genre Website**
 
-Music Genre Classification
+**Music Genre Classification**
+
 This project is a web-based application that allows users to classify the genre of a music track. Users can either record audio directly on the website or upload an existing audio file to get a genre prediction.
 
-Project Overview
+**Project Overview**
 The application leverages machine learning for music genre classification, using an LSTM (Long Short-Term Memory) model trained on preprocessed audio data. The model identifies various genres by analyzing the audio's unique features.
 
 Model Training and Testing
@@ -20,7 +21,7 @@ Model Testing - Evaluates model performance on test data.
 -[Model_Testing](https://drive.google.com/file/d/13c5SnXzGSCR9nfbQhSHUqwKcHSJ5lFby/view?usp=sharing)
 
 
-Getting Started
+**Getting Started**
 This repository contains three main components for the Music Genre Website project:
 
 App: The frontend application.
